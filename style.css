@@ -1,0 +1,17 @@
+.active {
+  color: #4f39f6;
+  font-weight: 600;
+}
+.nav-link:focus {
+  color: #4f39f6;
+  font-weight: 600;
+  outline: none; 
+}
+
+.nav-link:hover {
+  color: #4f39f6;
+}
+.active-btn {
+  background-color: #4f39f6;
+  color: white;
+}
